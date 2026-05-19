@@ -9,7 +9,7 @@ Este repositório documenta o desenvolvimento de uma aplicação web de gestão 
 * **Repositório:** `SM7---Engenharia-de-Software-e-IA-com-Bubble.io`
 * **Protótipo Funcional:** [Acesse a aplicação no Bubble](https://projeto-engenharia.bubbleapps.io/version-test?debug_mode=true)
 * **Contexto:** Disciplina de Análise e Desenvolvimento de Sistemas (2026).
-
+:https://projeto-engenharia.bubbleapps.io/version-test?debug_mode=true
 ---
 
 ## 📑 Resumo da Execução (Pipeline de Engenharia)
